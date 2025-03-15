@@ -1,1 +1,1 @@
-# My-Note-Taking
+# My Note Taking App
